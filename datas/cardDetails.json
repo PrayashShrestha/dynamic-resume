@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Prayash Shrestha",
+    "email": "prayashshrestha964@gmail.com",
+    "imgUrl": "../images/1.jpg",
+    "phone": "0123456789",
+    "address": "SRM, Guntur",
+    "hobbies": ["travelling", "singing", "cricket"]
+  },
+  {
+    "id": 2,
+    "name": "Gaurav Dahal",
+    "email": "gauravdahal53@gmail.com",
+    "imgUrl": "../images/2.jpg",
+    "phone": "0123456789",
+    "address": "SRM, Guntur",
+    "hobbies": ["travelling", "hiking", "basketball"]
+  }
+]
